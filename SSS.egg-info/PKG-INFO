@@ -10,3 +10,5 @@ Requires-Dist: seaborn
 Requires-Dist: tqdm
 Requires-Dist: joblib
 Requires-Dist: wordcloud
+Requires-Dist: lightgbm
+Requires-Dist: optuna
